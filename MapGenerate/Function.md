@@ -18,16 +18,16 @@
 
 非横移、侧移的段，包含直接行驶、曲线行驶、转弯、自旋
 
-![](image\normal_segment.jpg)
+![](images\normal_segment.jpg)
 
 ## 横移段 Diff
 
 
 
-![](image\diff_segment.jpg)
+![](images\diff_segment.jpg)
 
 
 
 ## 侧移 Crabwise
 
-![](image\侧移.jpg)
+![](images\侧移.jpg)

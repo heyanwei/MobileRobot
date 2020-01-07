@@ -14,7 +14,7 @@ QT Creater
 
 ### 登录
 
-![](D:\TestCode\MobileRobot\MapGenerate\images\Login.PNG)
+![](images\Login.PNG)
 
 - 登录的时候把D盘Map文件夹的所有子目录展示出来，代表每一个工程，如上图的TG和SH
 - 每一个工程可能有多个地图，如上图的garage1和garage2，garage1在文件夹中会以garage1.db这种数据库的文件呈现
