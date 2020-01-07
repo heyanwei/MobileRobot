@@ -14,7 +14,7 @@ QT Creater
 
 ### 登录
 
-![](images\Login.PNG)
+![](.\images\Login.PNG)
 
 - 登录的时候把D盘Map文件夹的所有子目录展示出来，代表每一个工程，如上图的TG和SH
 - 每一个工程可能有多个地图，如上图的garage1和garage2，garage1在文件夹中会以garage1.db这种数据库的文件呈现
@@ -30,7 +30,7 @@ D:.
 
 - 最开始的时候可能没有任何的地图，那么会直接跳到地图创建对话框
 
-![](images\NewProject.PNG)
+![](.\images\NewProject.PNG)
 
 - 在登录对话框中点击新建按钮也可以跳到地图创建对话框
 - 在地图创建对话框输入地图名称、用户名、密码后点击新建，那么会自动生成工程目录和对应的数据库文件，并进入主界面
@@ -50,7 +50,7 @@ D:.
 
 ### 主界面
 
-![](images\Main.png)
+![](.\images\Main.png)
 
 #### Map 地图
 
